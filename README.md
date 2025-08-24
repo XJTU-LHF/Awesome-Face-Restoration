@@ -13,7 +13,7 @@
 |2024|CVPR|Learning Degradation-Unaware Representation with Prior-Based Latent Transformations for Blind Face Restoration|\[[paper](https://ieeexplore.ieee.org/document/10655585)\]\[~~code~~]|Diffusion+ViT|
 |2024|CVPR|PFStorer: Personalized Face Restoration and Super-Resolutionn|\[[paper](https://ieeexplore.ieee.org/document/10657576)\]\[~~code~~]|Diffusion|
 |2024|IJCAI|CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models|\[[paper](https://www.ijcai.org/proceedings/2024/143)\]\[~~code~~]|Diffusion|
-|2024|MM|3D Priors-Guided Diffusion for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3664647.3681611)\]\[~~code~~]|Diffusion|
+|2024|MM|3D Priors-Guided Diffusion for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3664647.3681611)\]\[[code](https://github.com/Xiaobin-Lu/3Diffusion)\]|Diffusion|
 |2024|MM|CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models|\[[paper](https://www.ijcai.org/proceedings/2024/143)\]\[[code](https://github.com/Xiaobin-Lu/3Diffusion)\]|GAN|
 |2024|NeurIPS|ReF-LDM: ALatent Diffusion Model for Reference-based Face Image Restoration|\[[paper](https://papers.nips.cc/paper_files/paper/2024/hash/88be023075a5a3ff3dc3b5d26623fa22-Abstract-Conference.html)\]\[~~code~~]|GAN|
 |2024|TPAMI|DifFace: Blind Face Restoration With Diffused Error Contraction|\[[paper](https://ieeexplore.ieee.org/document/10607954)\]\[[code](https://github.com/zsyOAOA/DifFace)\]|Diffusion|
