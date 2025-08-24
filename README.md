@@ -15,7 +15,7 @@
 |2024|IJCAI|CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models|\[[paper](https://www.ijcai.org/proceedings/2024/143)\]\[~~code~~]|Diffusion|
 |2024|MM|3D Priors-Guided Diffusion for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3664647.3681611)\]\[[code](https://github.com/Xiaobin-Lu/3Diffusion)\]|Diffusion|
 |2024|MM|LD-BFR: Vector-Quantization-Based Face Restoration Model with Latent Diffusion Enhancement|\[[paper](https://dl.acm.org/doi/10.1145/3664647.3680853))\]\[[code](https://github.com/YuzhenD/LD-BFR.git)\]|GAN|
-|2024|NeurIPS|ReF-LDM: ALatent Diffusion Model for Reference-based Face Image Restoration|\[[paper](https://papers.nips.cc/paper_files/paper/2024/hash/88be023075a5a3ff3dc3b5d26623fa22-Abstract-Conference.html)\]\[~~code~~]|GAN|
+|2024|NeurIPS|ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration|\[[paper](https://papers.nips.cc/paper_files/paper/2024/hash/88be023075a5a3ff3dc3b5d26623fa22-Abstract-Conference.html)\]\[[code](https://github.com/ChiWeiHsiao/ref-ldm)\]|GAN|
 |2024|TPAMI|DifFace: Blind Face Restoration With Diffused Error Contraction|\[[paper](https://ieeexplore.ieee.org/document/10607954)\]\[[code](https://github.com/zsyOAOA/DifFace)\]|Diffusion|
 |2024|TCSVT|Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer|\[[paper](https://ieeexplore.ieee.org/document/10607954)\]\[~~code~~]|Diffusion|
 |2024|TCSVT|Toward Real-World Blind Face Restoration With Generative Diffusion Prior|\[[paper](https://ieeexplore.ieee.org/document/10607954)\]\[~~code~~]|Diffusion|
