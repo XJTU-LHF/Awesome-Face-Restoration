@@ -18,4 +18,4 @@
 |2024|NeurIPS|ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration|\[[paper](https://papers.nips.cc/paper_files/paper/2024/hash/88be023075a5a3ff3dc3b5d26623fa22-Abstract-Conference.html)\]\[[code](https://github.com/ChiWeiHsiao/ref-ldm)\]|GAN|
 |2024|TPAMI|DifFace: Blind Face Restoration With Diffused Error Contraction|\[[paper](https://ieeexplore.ieee.org/document/10607954)\]\[[code](https://github.com/zsyOAOA/DifFace)\]|Diffusion|
 |2024|TCSVT|Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer|\[[paper](https://ieeexplore.ieee.org/abstract/document/10339338)\]\[~~code~~]|Diffusion|
-|2024|TCSVT|Toward Real-World Blind Face Restoration With Generative Diffusion Prior|\[[paper](https://ieeexplore.ieee.org/abstract/document/10486984)\]\[~~code~~]|Diffusion|
+|2024|TCSVT|Toward Real-World Blind Face Restoration With Generative Diffusion Prior|\[[paper](https://ieeexplore.ieee.org/abstract/document/10486984)\]\[[code](https://github.com/chenxx89/BFRffusion)]|Diffusion|
