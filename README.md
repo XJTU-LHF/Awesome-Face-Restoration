@@ -26,7 +26,7 @@
 |2023|ICCV|Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond|\[[paper](https://ieeexplore.ieee.org/document/10376857)\]\[~~code~~]|no|
 |2023|MM|Exploring Correlations in Degraded Spatial Identity Features for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3581783.3611782)\]\[~~code~~]|no|
 |2023|MM|DiffBFR: Bootstrapping Diffusion Model for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3581783.3611731)\]\[~~code~~]|no|
-|2023|NeurIPS|PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance|\[[paper](https://papers.nips.cc/paper_files/paper/2023/hash/661c37f3b098bdee53fd7d9c4ef6964a-Abstract-Conference.html)\]\[~~code~~]|no|
+|2023|NeurIPS|PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance|\[[paper](https://papers.nips.cc/paper_files/paper/2023/hash/661c37f3b098bdee53fd7d9c4ef6964a-Abstract-Conference.html)\]\[[code](https://github.com/pq-yang/PGDiff)\]|no|
 |2024|TCSVT|Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer|\[[paper](https://ieeexplore.ieee.org/abstract/document/10339338)\]\[~~code~~]|ViT|
 |2024|TCSVT|Toward Real-World Blind Face Restoration With Generative Diffusion Prior|\[[paper](https://ieeexplore.ieee.org/abstract/document/10486984)\]\[[code](https://github.com/chenxx89/BFRffusion)]|Diffusion|
 |2024|TPAMI|DifFace: Blind Face Restoration With Diffused Error Contraction|\[[paper](https://ieeexplore.ieee.org/document/10607954)\]\[[code](https://github.com/zsyOAOA/DifFace)\]|Diffusion|
