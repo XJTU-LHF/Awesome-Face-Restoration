@@ -22,7 +22,7 @@
 |2023|TPAMI|Learning Dual Memory Dictionaries for Blind Face Restoration|\[[paper](https://ieeexplore.ieee.org/document/9921338)\]\[[code](https://github.com/csxmli2016/DMDNet)\]|no|
 |2023|TPAMI|RestoreFormer++: Towards Real-World Blind Face Restoration From Undegraded Key-Value Pairs|\[[paper](https://doi.org/10.1109/TPAMI.2023.3315753)\]\[[code](https://github.com/wzhouxiff/RestoreFormerPlusPlus)\]|no|
 |2023|CVPR|DR2: Diffusion-Based Robust Degradation Remover for Blind Face Restoration|\[[paper](https://ieeexplore.ieee.org/document/10204963)\]\[[code](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)\]|Diffusion|
-|2023|IJCAI|Analyzing and Combating Attribute Bias for Face Restoration|\[[paper](https://www.ijcai.org/proceedings/2023/128)\]\[~~code~~]|no|
+|2023|IJCAI|Analyzing and Combating Attribute Bias for Face Restoration|\[[paper](https://www.ijcai.org/proceedings/2023/128)\]\[[code](https://github.com/Seeyn/DebiasFR)\]|no|
 |2023|ICCV|Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond|\[[paper](https://ieeexplore.ieee.org/document/10376857)\]\[~~code~~]|Diffusion|
 |2023|MM|Exploring Correlations in Degraded Spatial Identity Features for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3581783.3611782)\]\[~~code~~]|no|
 |2023|MM|DiffBFR: Bootstrapping Diffusion Model for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3581783.3611731)\]\[~~code~~]|no|
