@@ -33,7 +33,7 @@
 |2024|AAAI|Blind Face Restoration under Extreme Conditions: Leveraging 3D-2D Prior Fusion for Superior Structural and Texture Recovery|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27889)\]\[[code](https://github.com/zhengrchan/FREx)\]|GAN|
 |2024|ICLR|Dual Associated Encoder for Face Restoration|\[[paper](https://openreview.net/forum?id=gwDuW7Ok5f)\]\[[code](https://github.com/LIAGM/DAEFR)\]|GAN|
 |2024|CVPR|WaveFace: Authentic Face Restoration with Efficient Frequency Recovery|\[[paper](https://ieeexplore.ieee.org/document/10656674)\]\[~~code~~]|Diffusion|
-|2024|CVPR|Learning Degradation-Unaware Representation with Prior-Based Latent Transformations for Blind Face Restoration|\[[paper](https://ieeexplore.ieee.org/document/10655585)\]\[~~code~~]|Diffusion/ViT|
+|2024|CVPR|Learning Degradation-Unaware Representation with Prior-Based Latent Transformations for Blind Face Restoration|\[[paper](https://ieeexplore.ieee.org/document/10655585)\]\[~~code~~]|Diffusion|
 |2024|CVPR|PFStorer: Personalized Face Restoration and Super-Resolutionn|\[[paper](https://ieeexplore.ieee.org/document/10657576)\]\[~~code~~]|Diffusion/Ref|
 |2024|IJCAI|CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models|\[[paper](https://www.ijcai.org/proceedings/2024/143)\]\[~~code~~]|Diffusion|
 |2024|MM|3D Priors-Guided Diffusion for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3664647.3681611)\]\[[code](https://github.com/Xiaobin-Lu/3Diffusion)\]|Diffusion/Geo-Prior|
