@@ -30,7 +30,7 @@
 |2024|TCSVT|Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer|\[[paper](https://ieeexplore.ieee.org/abstract/document/10339338)\]\[~~code~~]|ViT|
 |2024|TCSVT|Toward Real-World Blind Face Restoration With Generative Diffusion Prior|\[[paper](https://ieeexplore.ieee.org/abstract/document/10486984)\]\[[code](https://github.com/chenxx89/BFRffusion)]|Diffusion|
 |2024|TPAMI|DifFace: Blind Face Restoration With Diffused Error Contraction|\[[paper](https://ieeexplore.ieee.org/document/10607954)\]\[[code](https://github.com/zsyOAOA/DifFace)\]|Diffusion|
-|2024|AAAI|Blind Face Restoration under Extreme Conditions: Leveraging 3D-2D Prior Fusion for Superior Structural and Texture Recovery|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27889)\]\[[code](https://github.com/zhengrchan/FREx)\]|GAN|
+|2024|AAAI|Blind Face Restoration under Extreme Conditions: Leveraging 3D-2D Prior Fusion for Superior Structural and Texture Recovery|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27889)\]\[[code](https://github.com/zhengrchan/FREx)\]|GAN/Geo-Prior|
 |2024|ICLR|Dual Associated Encoder for Face Restoration|\[[paper](https://openreview.net/forum?id=gwDuW7Ok5f)\]\[[code](https://github.com/LIAGM/DAEFR)\]|GAN|
 |2024|CVPR|WaveFace: Authentic Face Restoration with Efficient Frequency Recovery|\[[paper](https://ieeexplore.ieee.org/document/10656674)\]\[~~code~~]|Diffusion|
 |2024|CVPR|Learning Degradation-Unaware Representation with Prior-Based Latent Transformations for Blind Face Restoration|\[[paper](https://ieeexplore.ieee.org/document/10655585)\]\[~~code~~]|Diffusion|
