@@ -5,7 +5,7 @@
 - [Benchmark Datasets](#benchmark-datasets)
 
 ## Blind Face Restoration 
-|Year<div style="width:20px">|Venue<div style="width:60px">|Title<div style="width:600px">|Resources<div style="width:100px">|Introduction<div style="width:200px">|
+|Year<div style="width:20px">|Venue<div style="width:60px">|Title<div style="width:600px">|Resources<div style="width:100px">|Introduction<div style="width:400px">|
 |:---:|:----:|:----:|:----:|:----:|
 |2021|CVPR|GAN Prior Embedded Network for Blind Face Restoration in the Wild|\[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_GAN_Prior_Embedded_Network_for_Blind_Face_Restoration_in_the_CVPR_2021_paper.html)\]\[[code](https://github.com/yangxy/GPEN)\]|GAN|
 |2021|CVPR|Towards Real-World Blind Face Restoration With Generative Facial Prior|\[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Towards_Real-World_Blind_Face_Restoration_With_Generative_Facial_Prior_CVPR_2021_paper.html)\]\[[code](https://github.com/TencentARC/GFPGAN)\]|GAN|
