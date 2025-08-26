@@ -8,6 +8,7 @@
 |Year<div style="width:20px">|Venue<div style="width:60px">|Title<div style="width:600px">|Resources<div style="width:100px">|Introduction<div style="width:60px">|
 |:---:|:----:|:----:|:----:|:----:|
 |2022|AAAI|Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20159)\]\[[code](https://github.com/jianzhangcs/panini)\]|GAN|
+|2022|ECCV|VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder|\[[paper](https://arxiv.org/abs/2205.06803)\]\[[code](https://github.com/TencentARC/VQFR)\]|CNN|
 |2022|NeurIPS|Towards Robust Blind Face Restoration with Codebook Lookup Transformer|\[[paper](https://papers.nips.cc/paper_files/paper/2022/hash/c573258c38d0a3919d8c1364053c45df-Abstract-Conference.html)\]\[[code](https://github.com/sczhou/CodeFormer)\]|ViT|
 |2023|IJCAI|Analyzing and Combating Attribute Bias for Face Restoration|\[[paper](https://www.ijcai.org/proceedings/2023/128)\]\[~~code~~]|no|
 |2023|MM|Exploring Correlations in Degraded Spatial Identity Features for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3581783.3611782)\]\[~~code~~]|no|
