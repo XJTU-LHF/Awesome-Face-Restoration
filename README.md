@@ -7,10 +7,19 @@
 ## Blind Face Restoration 
 |Year<div style="width:20px">|Venue<div style="width:60px">|Title<div style="width:600px">|Resources<div style="width:100px">|Introduction<div style="width:60px">|
 |:---:|:----:|:----:|:----:|:----:|
+|2021|CVPR|GAN Prior Embedded Network for Blind Face Restoration in the Wild|\[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_GAN_Prior_Embedded_Network_for_Blind_Face_Restoration_in_the_CVPR_2021_paper.html)\]\[[code](https://github.com/yangxy/GPEN)\]|GAN|
+|2021|CVPR|Towards Real-World Blind Face Restoration With Generative Facial Prior|\[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Towards_Real-World_Blind_Face_Restoration_With_Generative_Facial_Prior_CVPR_2021_paper.html)\]\[[code](https://github.com/TencentARC/GFPGAN)\]|GAN|
+|2021|CVPR|Progressive Semantic-Aware Style Transformation for Blind Face Restoration|\[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Progressive_Semantic-Aware_Style_Transformation_for_Blind_Face_Restoration_CVPR_2021_paper.html)\]\[[code](https://github.com/chaofengc/PSFRGAN)\]|GAN|
 |2022|AAAI|Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20159)\]\[[code](https://github.com/jianzhangcs/panini)\]|GAN|
+|2022|CVPR|Rethinking Deep Face Restoration|\[[paper](https://doi.org/10.1109/CVPR52688.2022.00750)\]\[~~code~~]|no|
+|2022|CVPR|Blind Face Restoration via Integrating Face Shape and Generative Priors|\[[paper](https://doi.org/10.1109/CVPR52688.2022.00751)\]\[~~code~~]|GAN|
+|2022|CVPR|RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs|\[[paper](https://doi.org/10.1109/CVPR52688.2022.01699)\]\[~~code~~]|no|
+|2022|CVPR|GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors|\[[paper](https://doi.org/10.1109/CVPR52688.2022.00193)\]\[~~code~~]|GAN|
 |2022|ECCV|VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder|\[[paper](https://arxiv.org/abs/2205.06803)\]\[[code](https://github.com/TencentARC/VQFR)\]|CNN|
 |2022|NeurIPS|Towards Robust Blind Face Restoration with Codebook Lookup Transformer|\[[paper](https://papers.nips.cc/paper_files/paper/2022/hash/c573258c38d0a3919d8c1364053c45df-Abstract-Conference.html)\]\[[code](https://github.com/sczhou/CodeFormer)\]|ViT|
+|2023|CVPR|DR2: Diffusion-Based Robust Degradation Remover for Blind Face Restoration|\[[paper](https://ieeexplore.ieee.org/document/10204963)\]\[[code](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)\]|Diffusion|
 |2023|IJCAI|Analyzing and Combating Attribute Bias for Face Restoration|\[[paper](https://www.ijcai.org/proceedings/2023/128)\]\[~~code~~]|no|
+|2023|ICCV|Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond|\[[paper](https://ieeexplore.ieee.org/document/10376857)\]\[~~code~~]|no|
 |2023|MM|Exploring Correlations in Degraded Spatial Identity Features for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3581783.3611782)\]\[~~code~~]|no|
 |2023|MM|DiffBFR: Bootstrapping Diffusion Model for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3581783.3611731)\]\[~~code~~]|no|
 |2023|NeurIPS|PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance|\[[paper](https://papers.nips.cc/paper_files/paper/2023/hash/661c37f3b098bdee53fd7d9c4ef6964a-Abstract-Conference.html)\]\[~~code~~]|no|
