@@ -14,8 +14,8 @@
 |2022|AAAI|Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20159)\]\[[code](https://github.com/jianzhangcs/panini)\]|GAN|
 |2022|CVPR|Rethinking Deep Face Restoration|\[[paper](https://doi.org/10.1109/CVPR52688.2022.00750)\]\[~~code~~]|GAN/codebook|
 |2022|CVPR|Blind Face Restoration via Integrating Face Shape and Generative Priors|\[[paper](https://doi.org/10.1109/CVPR52688.2022.00751)\]\[[code](https://github.com/TencentYoutuResearch/FaceRestoration-sgpn)\]|GAN|
-|2022|CVPR|RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs|\[[paper](https://doi.org/10.1109/CVPR52688.2022.01699)\]\[~~code~~]|no|
-|2022|CVPR|GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors|\[[paper](https://doi.org/10.1109/CVPR52688.2022.00193)\]\[~~code~~]|GAN|
+|2022|CVPR|RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs|\[[paper](https://doi.org/10.1109/CVPR52688.2022.01699)\]\[[code](https://github.com/wzhouxiff/RestoreFormer)\]|ViT/Codebook|
+|2022|CVPR|GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors|\[[paper](https://doi.org/10.1109/CVPR52688.2022.00193)\]\[[code](https://github.com/hejingwenhejingwen/GCFSR)\]|GAN|
 |2022|ECCV|VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder|\[[paper](https://arxiv.org/abs/2205.06803)\]\[[code](https://github.com/TencentARC/VQFR)\]|CNN|
 |2022|NeurIPS|Towards Robust Blind Face Restoration with Codebook Lookup Transformer|\[[paper](https://papers.nips.cc/paper_files/paper/2022/hash/c573258c38d0a3919d8c1364053c45df-Abstract-Conference.html)\]\[[code](https://github.com/sczhou/CodeFormer)\]|ViT|
 |2023|TCSVT|DEAR-GAN: Degradation-Aware Face Restoration With GAN Prior|\[[paper](https://doi.org/10.1109/TCSVT.2023.3244786)\]\[~~code~~]|no|
