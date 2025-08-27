@@ -46,7 +46,7 @@
 |2025|TNNLS|Multiprior Learning Via Neural Architecture Search for Blind Face Restoration|\[[paper](https://ieeexplore.ieee.org/document/10355907)\]\[[code](https://github.com/LonglongaaaGo/VSPBFR)\]|no|
 |2025|AAAI|FaceMe: Robust Blind Face Restoration with Personal Identification|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32593)\]\[[code](https://github.com/modyu-liu/FaceMe)\]|Diffusion/Ref|
 |2025|ICLR|InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration|\[[paper](https://openreview.net/forum?id=rUxr9Ll5FQ)\]\[[code](https://github.com/sen-mao/InterLCM)\]|Diffusion|
-|2025|ICLR|MGFR: Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model|\[[paper](https://openreview.net/forum?id=m9RNBZewW2)\]\[[code](https://github.com/KD-TAO/MGFR)\]|no|
+|2025|ICLR|MGFR: Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model|\[[paper](https://openreview.net/forum?id=m9RNBZewW2)\]\[[code](https://github.com/KD-TAO/MGFR)\]|Diffusion/Ref|
 |2025|CVPR|OSDFace: One-Step Diffusion Model for Face Restoration|\[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OSDFace_One-Step_Diffusion_Model_for_Face_Restoration_CVPR_2025_paper.html)\]\[[code](https://github.com/jkwang28/OSDFace)\]|Diffusion/Codebook|
 
 
