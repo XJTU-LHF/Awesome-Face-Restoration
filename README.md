@@ -39,7 +39,6 @@
 |2024|MM|3D Priors-Guided Diffusion for Blind Face Restoration|\[[paper](https://dl.acm.org/doi/10.1145/3664647.3681611)\]\[[code](https://github.com/Xiaobin-Lu/3Diffusion)\]|Diffusion/Geo-Prior|
 |2024|MM|LD-BFR: Vector-Quantization-Based Face Restoration Model with Latent Diffusion Enhancement|\[[paper](https://dl.acm.org/doi/10.1145/3664647.3680853)\]\[[code](https://github.com/YuzhenD/LD-BFR.git)\]|Diffusion/Codebook|
 |2024|NeurIPS|ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration|\[[paper](https://papers.nips.cc/paper_files/paper/2024/hash/88be023075a5a3ff3dc3b5d26623fa22-Abstract-Conference.html)\]\[[code](https://github.com/ChiWeiHsiao/ref-ldm)\]|Diffusion/Ref|
-2025
 |2025|PR|Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration|\[[paper](https://doi.org/10.1016/j.patcog.2024.111312)\]\[[code](https://github.com/LonglongaaaGo/VSPBFR)\]|Diffusion|
 |2025|TCSVT|FaceGCN: Structured Priors Inspired Graph Convolutional Networks for Face Restoration With Unknown Degradations|\[[paper](https://ieeexplore.ieee.org/document/10830527)\]\[[code](https://github.com/yanwd628/FaceGCN)\]|no|
 |2025|TIFS|Multi-Scale Semantic-Guidance Networks: Robust Blind Face Restoration Against Adversarial Attacks|\[[paper](https://ieeexplore.ieee.org/document/11006147)\]\[~~code~~]|no|
