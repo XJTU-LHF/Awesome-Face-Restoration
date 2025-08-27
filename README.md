@@ -41,4 +41,8 @@
 |2024|NeurIPS|ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration|\[[paper](https://papers.nips.cc/paper_files/paper/2024/hash/88be023075a5a3ff3dc3b5d26623fa22-Abstract-Conference.html)\]\[[code](https://github.com/ChiWeiHsiao/ref-ldm)\]|Diffusion/Ref|
 2025
 |2025|PR|Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration|\[[paper](https://doi.org/10.1016/j.patcog.2024.111312)\]\[[code](https://github.com/LonglongaaaGo/VSPBFR)\]|Diffusion|
+|2025|AAAI|FaceMe: Robust Blind Face Restoration with Personal Identification|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32593)\]\[[code](https://github.com/modyu-liu/FaceMe)\]|no|
+|2025|ICLR|OSDFace: One-Step Diffusion Model for Face Restoration|\[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OSDFace_One-Step_Diffusion_Model_for_Face_Restoration_CVPR_2025_paper.html)\]\[[code](https://github.com/jkwang28/OSDFace)\]|no|
+|2025|ICLR|OSDFace: One-Step Diffusion Model for Face Restoration|\[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OSDFace_One-Step_Diffusion_Model_for_Face_Restoration_CVPR_2025_paper.html)\]\[[code](https://github.com/jkwang28/OSDFace)\]|no|
+|2025|CVPR|OSDFace: One-Step Diffusion Model for Face Restoration|\[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OSDFace_One-Step_Diffusion_Model_for_Face_Restoration_CVPR_2025_paper.html)\]\[[code](https://github.com/jkwang28/OSDFace)\]|Diffusion/Codebook|
 
