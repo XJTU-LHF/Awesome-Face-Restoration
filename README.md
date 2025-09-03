@@ -1,6 +1,6 @@
 ## Table of contents
-- [Face Super-Resolution](#face-super-resolution)
 - [Blind Face Restoration](#blind-face-restoration)
+- [Face Super-Resolution](#face-super-resolution)
 - [Image Quality Assessment](#image-quality-assessment)
 - [Benchmark Datasets](#benchmark-datasets)
 
@@ -47,6 +47,11 @@
 |2025|ICLR|InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration|\[[paper](https://openreview.net/forum?id=rUxr9Ll5FQ)\]\[[code](https://github.com/sen-mao/InterLCM)\]|Diffusion|
 |2025|ICLR|MGFR: Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model|\[[paper](https://openreview.net/forum?id=m9RNBZewW2)\]\[[code](https://github.com/KD-TAO/MGFR)\]|Diffusion/Ref|
 |2025|CVPR|OSDFace: One-Step Diffusion Model for Face Restoration|\[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OSDFace_One-Step_Diffusion_Model_for_Face_Restoration_CVPR_2025_paper.html)\]\[[code](https://github.com/jkwang28/OSDFace)\]|Diffusion/Codebook|
+
+## Blind Face Restoration 
+|Year<div style="width:20px">|Venue<div style="width:60px">|Title<div style="width:600px">|Resources<div style="width:100px">|Introduction<div style="width:400px">|
+|:---:|:----:|:----:|:----:|:----:|
+|2021|CVPR|GAN Prior Embedded Network for Blind Face Restoration in the Wild|\[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_GAN_Prior_Embedded_Network_for_Blind_Face_Restoration_in_the_CVPR_2021_paper.html)\]\[[code](https://github.com/yangxy/GPEN)\]|GAN|
 
 
 
