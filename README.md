@@ -48,10 +48,12 @@
 |2025|ICLR|MGFR: Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model|\[[paper](https://openreview.net/forum?id=m9RNBZewW2)\]\[[code](https://github.com/KD-TAO/MGFR)\]|Diffusion/Ref|
 |2025|CVPR|OSDFace: One-Step Diffusion Model for Face Restoration|\[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OSDFace_One-Step_Diffusion_Model_for_Face_Restoration_CVPR_2025_paper.html)\]\[[code](https://github.com/jkwang28/OSDFace)\]|Diffusion/Codebook|
 
-## Blind Face Restoration 
+## Face Super-Resolution 
 |Year<div style="width:20px">|Venue<div style="width:60px">|Title<div style="width:600px">|Resources<div style="width:100px">|Introduction<div style="width:400px">|
 |:---:|:----:|:----:|:----:|:----:|
-|2021|CVPR|GAN Prior Embedded Network for Blind Face Restoration in the Wild|\[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_GAN_Prior_Embedded_Network_for_Blind_Face_Restoration_in_the_CVPR_2021_paper.html)\]\[[code](https://github.com/yangxy/GPEN)\]|GAN|
-
+|2025|PR|SANet: Face super-resolution based on self-similarity prior and attention integration|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320324006058?via%3Dihub)\]\[~~code~~]|CNN|
+|2025|PR|CMANet: A CNN-Mamba aggregation network for face super-resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320325005199?via%3Dihub)\]\[~~code~~]|CNN/Mamba|
+|2025|TIFS|FDNet: A Frequency-Aware Decomposition Network for Robust Face Super-Resolution Against Adversarial Attacks|\[[paper](https://ieeexplore.ieee.org/document/11018135)\]\[~~code~~]|CNN|
+|2025|AAAI|Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32997)\]\[~~code~~]|Diffusion|
 
 
