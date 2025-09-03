@@ -57,6 +57,7 @@
 |2021|TIP|Multi-Stage Degradation Homogenization for Super-Resolution of Face Images With Extreme Degradations|\[[paper](https://ieeexplore.ieee.org/document/9451563)\]\[~~code~~]|-|
 |2021|TMM|Learning Face Image Super-Resolution Through Facial Semantic Attribute Transformation and Self-Attentive Structure Enhancement|\[[paper](https://ieeexplore.ieee.org/document/9055090)\]\[~~code~~]|-|
 |2021|TMM|Supervised Pixel-Wise GAN for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/9132630)\]\[~~code~~]|-|
+|2021|MM|Face Hallucination via Split-Attention in Split-Attention Network|\[[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475682)\]\[~~code~~]|-|
 |2022|NN|Multi-level landmark-guided deep network for face super-resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0893608022001587?via%3Dihub)\]\[~~code~~]|-|
 |2022|TCSVT|Propagating Facial Prior Knowledge for Multitask Learning in Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/9792407)\]\[~~code~~]|-|
 |2022|TIP|Attention-Driven Graph Neural Network for Deep Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/9916123)\]\[~~code~~]|-|
