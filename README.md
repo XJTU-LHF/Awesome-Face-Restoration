@@ -55,5 +55,30 @@
 |2025|PR|CMANet: A CNN-Mamba aggregation network for face super-resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320325005199?via%3Dihub)\]\[~~code~~]|CNN/Mamba|
 |2025|TIFS|FDNet: A Frequency-Aware Decomposition Network for Robust Face Super-Resolution Against Adversarial Attacks|\[[paper](https://ieeexplore.ieee.org/document/11018135)\]\[~~code~~]|CNN|
 |2025|AAAI|Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32997)\]\[~~code~~]|Diffusion|
+|2024|TCSVT|PLGNet: Prior-Guided Local and Global Interactive Hybrid Network for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10535972)\]\[~~code~~]||
+|2024|TMM|An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10145603)\]\[~~code~~]|CNN/ViT|
+|2024|TMM|Exploiting Multi-Scale Parallel Self-Attention and Local Variation via Dual-Branch Transformer-CNN Structure for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10207832)\]\[~~code~~]|CNN/ViT|
+|2024|TNNLS|Rethinking Prior-Guided Face Super-Resolution: A New Paradigm With Facial Component Prior|\[[paper](https://ieeexplore.ieee.org/document/9875217)\]\[~~code~~]|CNN/ViT/Geo-Prior|
+|2024|AAAI|Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28339)\]\[~~code~~]|-|
+|2024|MM|Efficient Face Super-Resolution via Wavelet-based Feature Enhancement Network|\[[paper](https://dl.acm.org/doi/10.1145/3664647.3681088)\]\[~~code~~]|ViT|
+|2023|NN|Self-attention learning network for face super-resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023000060?via%3Dihub)\]\[~~code~~]|-|
+|2023|PR|A Composite Network Model for Face Super-Resolution with Multi-Order Head Attention Facial Priors|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320323002030?via%3Dihub)\]\[~~code~~]|-|
+|2023|TIP|CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10087319)\]\[~~code~~]|-|
+|2023|TIP|Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10036448)\]\[~~code~~]|-|
+|2023|TMM|SCTANet: A Spatial Attention-Guided CNN-Transformer Aggregation Network for Deep Face Image Super-Resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023000060?via%3Dihub)\]\[~~code~~]|-|
+|2023|TMM|Context-Patch Representation Learning With Adaptive Neighbor Embedding for Robust Face Image Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/9834120)\]\[~~code~~]|-|
+|2023|TMM|JDSR-GAN: Constructing an Efficient Joint Learning Network for Masked Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10032643)\]\[~~code~~]|-|
+|2023|CVPR|Spatial-Frequency Mutual Learning for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10205328)\]\[~~code~~]|-|
+|2023|IJCAI|Learning Attention from Attention: Efficient Self-Refinement Transformer for Face Super-Resolution|\[[paper](https://www.ijcai.org/proceedings/2023/115)\]\[~~code~~]|-|
+|2022|NN|Multi-level landmark-guided deep network for face super-resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0893608022001587?via%3Dihub)\]\[~~code~~]|-|
+|2022|TCSVT|Propagating Facial Prior Knowledge for Multitask Learning in Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/9792407)\]\[~~code~~]|-|
+|2022|TIP|Attention-Driven Graph Neural Network for Deep Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/9916123)\]\[~~code~~]|-|
+|2022|IJCAI|IDPT: Interconnected Dual Pyramid Transformer for Face Super-Resolution|\[[paper](https://www.ijcai.org/proceedings/2022/182)\]\[~~code~~]|-|
+|2021|PR|Constructing multilayer locality-constrained matrix regression framework for noise robust face super-resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320320303423?via%3Dihub)\]\[~~code~~]|-|
+|2021|TIP|Learning Spatial Attention for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/9293182)\]\[~~code~~]|-|
+|2021|TIP|Features Guided Face Super-Resolution via Hybrid Model of Deep Learning and Random Forests|\[[paper](https://ieeexplore.ieee.org/document/9395386)\]\[~~code~~]|-|
+|2021|TIP|Multi-Stage Degradation Homogenization for Super-Resolution of Face Images With Extreme Degradations|\[[paper](https://ieeexplore.ieee.org/document/9451563)\]\[~~code~~]|-|
+|2021|TMM|Learning Face Image Super-Resolution Through Facial Semantic Attribute Transformation and Self-Attentive Structure Enhancement|\[[paper](https://ieeexplore.ieee.org/document/9055090)\]\[~~code~~]|-|
+|2021|TMM|Supervised Pixel-Wise GAN for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/9132630)\]\[~~code~~]|-|
 
 
