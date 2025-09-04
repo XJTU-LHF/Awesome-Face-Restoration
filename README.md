@@ -78,9 +78,9 @@
 |2024|AAAI|Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28339)\]\[~~code~~]|-|
 |2024|MM|Efficient Face Super-Resolution via Wavelet-based Feature Enhancement Network|\[[paper](https://dl.acm.org/doi/10.1145/3664647.3681088)\]\[[code](https://github.com/PRIS-CV/WFEN)]|ViT|
 |2025|PR|SANet: Face super-resolution based on self-similarity prior and attention integration|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320324006058?via%3Dihub)\]\[~~code~~]|CNN|
-|2025|PR|CMANet: A CNN-Mamba aggregation network for face super-resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320325005199?via%3Dihub)\]\[[code](https://github.com/JerryYann/DPI)]|CNN/Mamba|
+|2025|PR|CMANet: A CNN-Mamba aggregation network for face super-resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320325005199?via%3Dihub)\]\[~~code~~]|CNN/Mamba|
 |2025|TIFS|FDNet: A Frequency-Aware Decomposition Network for Robust Face Super-Resolution Against Adversarial Attacks|\[[paper](https://ieeexplore.ieee.org/document/11018135)\]\[~~code~~]|CNN|
-|2025|AAAI|Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32997)\]\[~~code~~]|Diffusion|
+|2025|AAAI|Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32997)\]\[[code](https://github.com/JerryYann/DPI)]|Diffusion|
 
 
 
