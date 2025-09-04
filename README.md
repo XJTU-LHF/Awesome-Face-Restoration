@@ -72,10 +72,10 @@
 |2023|CVPR|Spatial-Frequency Mutual Learning for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10205328)\]\[~~code~~]|-|
 |2023|IJCAI|Learning Attention from Attention: Efficient Self-Refinement Transformer for Face Super-Resolution|\[[paper](https://www.ijcai.org/proceedings/2023/115)\]\[~~code~~]|-|
 |2024|TCSVT|PLGNet: Prior-Guided Local and Global Interactive Hybrid Network for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10535972)\]\[~~code~~]||
-|2024|TMM|An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10145603)\]\[~~code~~]|CNN/ViT|
-|2024|TMM|Exploiting Multi-Scale Parallel Self-Attention and Local Variation via Dual-Branch Transformer-CNN Structure for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10207832)\]\[~~code~~]|CNN/ViT|
+|2024|TMM|An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10145603)\]\[[code](https://github.com/FVL2020/ELSFace)]|CNN/ViT|
+|2024|TMM|Exploiting Multi-Scale Parallel Self-Attention and Local Variation via Dual-Branch Transformer-CNN Structure for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/document/10207832)\]\[[code](https://github.com/jingang-cv/DBTC)]|CNN/ViT|
 |2024|TNNLS|Rethinking Prior-Guided Face Super-Resolution: A New Paradigm With Facial Component Prior|\[[paper](https://ieeexplore.ieee.org/document/9875217)\]\[~~code~~]|CNN/ViT/Geo-Prior|
-|2024|AAAI|Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28339)\]\[~~code~~]|-|
+|2024|AAAI|Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28339)\]\[[code](https://github.com/wcy-cs/IC-FSRDENet)]|-|
 |2024|MM|Efficient Face Super-Resolution via Wavelet-based Feature Enhancement Network|\[[paper](https://dl.acm.org/doi/10.1145/3664647.3681088)\]\[[code](https://github.com/PRIS-CV/WFEN)]|ViT|
 |2025|PR|SANet: Face super-resolution based on self-similarity prior and attention integration|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320324006058?via%3Dihub)\]\[~~code~~]|CNN|
 |2025|PR|CMANet: A CNN-Mamba aggregation network for face super-resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320325005199?via%3Dihub)\]\[~~code~~]|CNN/Mamba|
