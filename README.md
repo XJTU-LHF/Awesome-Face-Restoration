@@ -47,6 +47,8 @@
 |2025|ICLR|InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration|\[[paper](https://openreview.net/forum?id=rUxr9Ll5FQ)\]\[[code](https://github.com/sen-mao/InterLCM)\]|Diffusion|
 |2025|ICLR|MGFR: Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model|\[[paper](https://openreview.net/forum?id=m9RNBZewW2)\]\[[code](https://github.com/KD-TAO/MGFR)\]|Diffusion/Ref|
 |2025|CVPR|OSDFace: One-Step Diffusion Model for Face Restoration|\[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OSDFace_One-Step_Diffusion_Model_for_Face_Restoration_CVPR_2025_paper.html)\]\[[code](https://github.com/jkwang28/OSDFace)\]|Diffusion/Codebook|
+|2025|ICML|Feature out! Let Raw Image as Your Condition for Blind Face Restoration|\[[paper](https://openreview.net/pdf?id=vwIjp2751u)\]\[~~code~~]|Diffusion|
+|2025|IJCAI|Unleashing the Potential of Transformer Flow for Photorealistic Face Restoration|\[[paper](https://www.ijcai.org/proceedings/2025/234)\]\[~~code~~]|Diffusion|
 
 ## Face Super-Resolution 
 |Year<div style="width:20px">|Venue<div style="width:60px">|Title<div style="width:600px">|Resources<div style="width:100px">|Introduction<div style="width:400px">|
