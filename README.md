@@ -49,7 +49,8 @@
 |2025|CVPR|OSDFace: One-Step Diffusion Model for Face Restoration|\[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OSDFace_One-Step_Diffusion_Model_for_Face_Restoration_CVPR_2025_paper.html)\]\[[code](https://github.com/jkwang28/OSDFace)\]|Diffusion/Codebook|
 |2025|ICML|Feature out! Let Raw Image as Your Condition for Blind Face Restoration|\[[paper](https://openreview.net/pdf?id=vwIjp2751u)\]\[~~code~~]|Diffusion|
 |2025|IJCAI|Unleashing the Potential of Transformer Flow for Photorealistic Face Restoration|\[[paper](https://www.ijcai.org/proceedings/2025/234)\]\[~~code~~]|Diffusion|
-|2025|MM|AuthFace: Towards Authentic Blind Face Restoration withFace-oriented Generative Diffusion Prior|\[[paper](https://dl.acm.org/doi/epdf/10.1145/3746027.3755165)\]\[[code](https://github.com/EthanLiang99/AuthFace)\]|Diffusion|
+|2025|ICCV|DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance|\[[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Do_DynFaceRestore_Balancing_Fidelity_and_Quality_in_Diffusion-Guided_Blind_Face_Restoration_ICCV_2025_paper.html)\]\[[code](https://github.com/nycu-acm/DynFaceRestore)\]|Diffusion|
+|2025|MM|AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior|\[[paper](https://dl.acm.org/doi/epdf/10.1145/3746027.3755165)\]\[[code](https://github.com/EthanLiang99/AuthFace)\]|Diffusion|
 
 
 ## Face Super-Resolution 
