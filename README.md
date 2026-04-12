@@ -51,6 +51,9 @@
 |2025|IJCAI|Unleashing the Potential of Transformer Flow for Photorealistic Face Restoration|\[[paper](https://www.ijcai.org/proceedings/2025/234)\]\[~~code~~]|Diffusion|
 |2025|ICCV|DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance|\[[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Do_DynFaceRestore_Balancing_Fidelity_and_Quality_in_Diffusion-Guided_Blind_Face_Restoration_ICCV_2025_paper.html)\]\[[code](https://github.com/nycu-acm/DynFaceRestore)\]|Diffusion|
 |2025|MM|AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior|\[[paper](https://dl.acm.org/doi/epdf/10.1145/3746027.3755165)\]\[[code](https://github.com/EthanLiang99/AuthFace)\]|Diffusion|
+|2026|NN|CoCoFR: Collaborative codebooks learning with soft matching strategy for blind face restoration|\[[paper](https://www.sciencedirect.com/science/article/pii/S0893608026000699?via%3Dihub)\]\[~~code~~]|Codebook|
+
+
 
 
 ## Face Super-Resolution 
