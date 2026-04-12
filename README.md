@@ -53,7 +53,7 @@
 |2025|MM|AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior|\[[paper](https://dl.acm.org/doi/epdf/10.1145/3746027.3755165)\]\[[code](https://github.com/EthanLiang99/AuthFace)\]|Diffusion|
 |2025|NeurIPS|Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration|\[[paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/115678)\]\[[code](https://github.com/PRIS-CV/SSDiff)\]|Diffusion|
 |2026|NN|CoCoFR: Collaborative codebooks learning with soft matching strategy for blind face restoration|\[[paper](https://www.sciencedirect.com/science/article/pii/S0893608026000699?via%3Dihub)\]\[~~code~~]|Codebook|
-|2026|AAAI|RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction|\[[paper](https://doi.org/10.1609/aaai.v40i14.38194)\]\[[code](https://github.com/yinzhicun/RefSTAR)\]|Ref|
+|2026|AAAI|RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction|\[[paper](https://doi.org/10.1609/aaai.v40i14.38194)\]\[[code](https://github.com/yinzhicun/RefSTAR)\]|Diffusion/Ref|
 
 
 
